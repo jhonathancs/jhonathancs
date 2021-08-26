@@ -13,6 +13,7 @@
   <img align="center" alt="Jhon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jhon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jhon-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
+ <img align="center" alt="Jhon-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="Jhon-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Jhon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Jhon-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
@@ -27,9 +28,9 @@
 </div>
 
  ## 👍 Follow me
- 
 <div> 
-  <a href="https://www.linkedin.com/in/jhonathan-cs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/jhonathan_jcs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+     <a href="https://twitter.com/JcsJhonathan" target="_blank"><img align="center" alt="Jhon-twiter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" target="_blank"></a>
+   <a href="https://www.facebook.com/jhonathan.costadesouza/" target="_blank"><img align="center" alt="Jhon-face" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/jhonathan-cs/" target="_blank"><img align="center" alt="Jhon-face" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" target="_blank"></a>
 </div>
   
