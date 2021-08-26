@@ -5,8 +5,8 @@
 👨‍💻 I'm a web development student at [Trybe](https://www.betrybe.com/) School.
  </br>
  
- - 📍From Bogota - co
-
+ - 📍I'm from Brazil-🇧🇷 but I'm living in Bogota-🇨🇴
+ 
 ## 🖥️ Technologies
 <div style="display: inline_block"><br>
   <img align="center" alt="Jhon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
