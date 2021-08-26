@@ -4,11 +4,9 @@
 
 👨‍💻 I'm a web development student at [Trybe](https://www.betrybe.com/) School.
  </br>
- 
- - 📍I'm from Porto Velho - Brazil but I'm living in Bogota - Colombia 
- <div - 📍I'm from Porto Velho - Brazil but I'm living in Bogota - Colombia style="display: inline_block">
-  <img align="center" alt="Jhon-brazil" height="30" width="40" src="https://github.com/lipis/flag-icon-css/blob/master/flags/4x3/br.svg">
-  <img align="center"  hspace="10px" alt="Jhon-colombia" height="30" width="40" src="https://github.com/lipis/flag-icon-css/blob/master/flags/4x3/co.svg">
+ <div style="display: inline_block"><p>📍 I'm from Porto Velho - Brazil but I'm living in Bogota - Colombia</p>
+  <img align="center" alt="Jhon-brazil" src="https://img.icons8.com/color/50/000000/brazil-circular.png">
+  <img align="center"  hspace="5px" alt="Jhon-colombia" src="https://img.icons8.com/color/48/000000/colombia-circular.png">
  </div>
  
 ## 🖥️ Technologies
@@ -33,6 +31,7 @@
  ## 👍 Follow me
 <div> 
      <a href="https://twitter.com/JcsJhonathan" target="_blank"><img align="center" alt="Jhon-twiter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg"></a>
+      <a href="https://twitter.com/JcsJhonathan" target="_blank"><img align="center" alt="Jhon-twiter"src="https://img.icons8.com/fluency/48/000000/instagram-new.png"></a>
    <a href="https://www.facebook.com/jhonathan.costadesouza/" target="_blank"><img align="center" alt="Jhon-face" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" target="_blank"></a>
    <a href="https://www.linkedin.com/in/jhonathan-cs/" target="_blank"><img align="center" alt="Jhon-face" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" target="_blank"></a>
 </div>
