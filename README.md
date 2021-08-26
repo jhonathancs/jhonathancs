@@ -5,7 +5,11 @@
 👨‍💻 I'm a web development student at [Trybe](https://www.betrybe.com/) School.
  </br>
  
- - 📍I'm from Porto Velho - Brazil but I'm living in Bogota - Colombia
+ - 📍I'm from Porto Velho - Brazil but I'm living in Bogota - Colombia 
+ <div - 📍I'm from Porto Velho - Brazil but I'm living in Bogota - Colombia style="display: inline_block">
+  <img align="center" alt="Jhon-Js" height="30" width="40" src="https://github.com/lipis/flag-icon-css/blob/master/flags/4x3/br.svg">
+  <img align="center" alt="Jhon-Js" height="30" width="40" src="https://github.com/lipis/flag-icon-css/blob/master/flags/4x3/co.svg">
+ </div>
  
 ## 🖥️ Technologies
 <div style="display: inline_block"><br>
