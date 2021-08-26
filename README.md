@@ -5,7 +5,7 @@
 👨‍💻 I'm a web development student at [Trybe](https://www.betrybe.com/) School.
  </br>
  
- - 📍I'm from Brazil-🇧🇷 but I'm living in Bogota-🇨🇴
+ - 📍I'm from Porto Velho - Brazil but I'm living in Bogota - Colombia
  
 ## 🖥️ Technologies
 <div style="display: inline_block"><br>
