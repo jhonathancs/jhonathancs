@@ -37,4 +37,4 @@
 </div>
   </br>
   
-   ![Snake animation](https://github.com/jhonathancs/jhonathancs/blob/main/.github/workflows/main.yml)
+   ![Snake animation](https://github.com/jhonathancs/jhonathancs/blob/output/github-contribution-grid-snake.svg)
