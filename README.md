@@ -35,6 +35,4 @@
    <a href="https://www.facebook.com/jhonathan.costadesouza/" target="_blank"><img align="center" alt="Jhon-face" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" target="_blank"></a>
    <a href="https://www.linkedin.com/in/jhonathan-cs/" target="_blank"><img align="center" alt="Jhon-face" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" target="_blank"></a>
 </div>
-  </br>
-  
    ![Snake animation](https://github.com/jhonathancs/jhonathancs/blob/output/github-contribution-grid-snake.svg)
