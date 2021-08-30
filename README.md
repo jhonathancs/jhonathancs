@@ -1,4 +1,4 @@
-# Hey, I'm Jhonathan Costa 🧔🏻
+# Hi, I'm Jhonathan Costa 🧔🏻
 
  ## Who am I? 
 
