@@ -4,7 +4,7 @@
 
 👨‍💻 I'm a web development student at [Trybe](https://www.betrybe.com/) School.
  </br>
- <div style="display: inline_block"><p>📍 I'm from Porto Velho - Brazil.
+ <div style="display: inline_block"><p>📍 I'm from Porto Velho - RO, Brazil.
   <img align="center" alt="Jhon-brazil" src="https://img.icons8.com/color/50/000000/brazil-circular.png">
  </div>
  
