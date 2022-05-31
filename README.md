@@ -28,8 +28,7 @@
 </div>
 
  ## 👍 Follow me
-<div> 
-      <a href="https://www.instagram.com/jhonathan_jcs/" target="_blank"><img align="center" alt="Jhon-twiter"src="https://img.icons8.com/fluency/48/000000/instagram-new.png"></a>
+<div>
    <a href="https://www.linkedin.com/in/jhonathan-cs/" target="_blank"><img align="center" alt="Jhon-face" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" target="_blank"></a>
 </div>
  
