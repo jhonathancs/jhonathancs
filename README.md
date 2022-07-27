@@ -19,6 +19,12 @@
   <img align="center" alt="Jhon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Jhon-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" alt="Jhon-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+ <img align="center" alt="Jhon-Mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Jhon-Mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
+  <img align="center" alt="Jhon-Mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+   <img align="center" alt="Jhon-Mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+ <img align="center" alt="Jhon-Mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg">
+  <img align="center" alt="Jhon-Mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 </div>
 </br>
 <div>
