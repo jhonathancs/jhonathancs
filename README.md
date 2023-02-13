@@ -15,19 +15,14 @@
 - 💬 Sinta-se livre para me perguntar sobre música e programação, pois esses são dois tópicos em que eu posso oferecer ajuda de maneira mais eficiente. Eu realmente aprecio conversar sobre esses assuntos e espero poder ajudá-lo da melhor maneira possível.;
 - 📫 Por favor, envie um email para **jhonathan_jcs@hotmail.com** para me encontrar.
 - 📝 Veja meu Curriculum Vitae <a href="https://www.canva.com/design/DAFGxL9JESA/Tv3dV4GoJD1-RaDtWaQMdQ/view?utm_content=DAFGxL9JESA&utm_campaign=designshare&utm_medium=link&utm_source=viewer" target="_blank">clicando aqui</a> para mais informações.
-
-<br />
- 
  </div>
- 
- <br />
  
 ## 📈 My Statistics
 
 <div align="center">
   <a href="https://github.com/jhonathancs">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Jhonathancs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonathancs&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Jhonathancs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonathancs&layout=compact&langs_count=16&theme=dracula"/>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=jhonathancs)
 
