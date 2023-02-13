@@ -5,8 +5,23 @@
 👨‍💻 I'm a web development student at [Trybe](https://www.betrybe.com/) School.
  </br>
  <div style="display: inline_block"><p>📍 I'm from Porto Velho - RO, Brazil.
-  <img align="center" alt="Jhon-brazil" src="https://img.icons8.com/color/50/000000/brazil-circular.png">
+ Olá, me chamo **Jhonathan Costa**, sou de São Paulo, Brasil e atualmente trabalho como **Pessoa Instrutora na Trybe** 🚀. 
+
+**Meus interesses pessoais:**
+
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="350px" />
+
+- 💼 Eu busco conhecimento para progredir em minha carreira como desenvolvedor.;
+- 🎶 Meus hobby favorito é tocar 🎸;
+- 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
+- 📫 Por favor, envie um email para **jhonathan_jcs@hotmail.com** para me encontrar.
+- 📝 Veja meu Curriculum Vitae <a href="https://www.canva.com/design/DAFGxL9JESA/Tv3dV4GoJD1-RaDtWaQMdQ/view?utm_content=DAFGxL9JESA&utm_campaign=designshare&utm_medium=link&utm_source=viewer" target="_blank">clicando aqui</a> para mais informações.
+
+<br />
+ 
  </div>
+ <br />
+ <br />
  
 ### 📈 My Statistics
 
