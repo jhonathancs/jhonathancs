@@ -2,13 +2,13 @@
 
  ## Who am I? 
 
-👨‍💻 I'm a Developer Web, I graduated from [Trybe](https://www.betrybe.com/) School.
+👨‍💻 I'm a Web Developer
  </br>
  <p>📍 I'm from Porto Velho - RO, Brazil.
 
-**Meus interesses pessoais:**
+## 🎯 my personal interests
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="350px" />
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="300px" />
 
 - 💼 Eu busco conhecimento para progredir em minha carreira como desenvolvedor.;
 - 🎶 Meu hobby favorito é tocar 🎸;
@@ -19,10 +19,10 @@
 <br />
  
  </div>
- <br />
+ 
  <br />
  
-### 📈 My Statistics
+## 📈 My Statistics
 
 <div align="center">
   <a href="https://github.com/jhonathancs">
