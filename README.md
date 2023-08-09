@@ -2,9 +2,8 @@
 
  ## Who am I? 
 
-👨‍💻 I'm a Web Developer
+👨‍💻 I'm a FullStack Web Developer
  </br>
- <p>📍 I'm from Porto Velho - RO, Brazil.
 
 ## 🎯 My personal interests
 
